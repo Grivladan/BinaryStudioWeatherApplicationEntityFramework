@@ -1,0 +1,122 @@
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\WeatherApplication.dll.config
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\WeatherApplication.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\WeatherApplication.pdb
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\Antlr3.Runtime.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\Newtonsoft.Json.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Helpers.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Mvc.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Optimization.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Razor.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\WebGrease.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Helpers.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Mvc.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Optimization.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.Razor.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\bin\Newtonsoft.Json.xml
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.dll
+C:\Users\Владислав\Desktop\Binary Studio\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.pdb
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\WeatherApplication.dll.config
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\WeatherApplication.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\WeatherApplication.pdb
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\Antlr3.Runtime.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\Newtonsoft.Json.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Helpers.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Mvc.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Optimization.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Razor.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\WebGrease.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Helpers.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Mvc.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Optimization.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.Razor.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\bin\Newtonsoft.Json.xml
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.dll
+C:\Users\Владислав\Desktop\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.pdb
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\WeatherApplication.dll.config
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\WeatherApplication.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\WeatherApplication.pdb
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Antlr3.Runtime.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Newtonsoft.Json.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Helpers.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Mvc.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Optimization.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Razor.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\WebGrease.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Helpers.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Mvc.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Optimization.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.Razor.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Newtonsoft.Json.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\obj\Debug\WeatherApplication.pdb
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Ninject.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Ninject.Web.Common.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Ninject.Web.Mvc.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\WebActivatorEx.dll
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Ninject.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Ninject.Web.Common.xml
+C:\Users\Владислав\Desktop\Code\WeatherApplication\WeatherApplication\bin\Ninject.Web.Mvc.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\WeatherApplication.dll.config
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\WeatherApplication.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\WeatherApplication.pdb
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Antlr3.Runtime.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\EntityFramework.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Newtonsoft.Json.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Ninject.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Ninject.Web.Common.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Ninject.Web.Mvc.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Helpers.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Mvc.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Optimization.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Razor.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.WebPages.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\WebActivatorEx.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\WebGrease.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\EntityFramework.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Ninject.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Ninject.Web.Common.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Ninject.Web.Mvc.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Helpers.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Mvc.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Optimization.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.Razor.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.WebPages.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\bin\Newtonsoft.Json.xml
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\obj\Debug\WeatherApplication.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\obj\Debug\WeatherApplication.dll
+C:\Users\Владислав\Desktop\WeatherApplicationWithNinject\WeatherApplication\obj\Debug\WeatherApplication.pdb
